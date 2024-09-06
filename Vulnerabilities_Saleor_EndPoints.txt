@@ -1,0 +1,19 @@
+ghcr.io/saleor/saleor:3.20 (debian 12.6)
+Total: 180 (UNKNOWN: 0, LOW: 116, MEDIUM: 42, HIGH: 18, CRITICAL: 4)
+
+ghcr.io/saleor/saleor-dashboard:latest (alpine 3.20.2)
+Total: 7 (UNKNOWN: 0, LOW: 0, MEDIUM: 4, HIGH: 0, CRITICAL: 3)
+
+library/postgres:15-alpine (alpine 3.20.2)
+Total: 2 (UNKNOWN: 0, LOW: 0, MEDIUM: 2, HIGH: 0, CRITICAL: 0)
+
+library/redis:7.0-alpine (alpine 3.20.2)
+Total: 2 (UNKNOWN: 0, LOW: 0, MEDIUM: 2, HIGH: 0, CRITICAL: 0)
+
+jaegertracing/all-in-one (alpine 3.20.2)
+Total: 2 (UNKNOWN: 0, LOW: 0, MEDIUM: 2, HIGH: 0, CRITICAL: 0)
+
+axllent/mailpit (alpine 3.20.2)
+Total: 2 (UNKNOWN: 0, LOW: 0, MEDIUM: 2, HIGH: 0, CRITICAL: 0)
+
+
