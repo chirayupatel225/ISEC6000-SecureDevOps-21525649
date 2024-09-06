@@ -7,7 +7,7 @@ ISEC6000 Secure DevOps Repository Chirayu Patel 21525649
 
 # ******************\_\_\_\_******************
 
-## ssAssessment 1 README File
+## Assessment 1 README File
 
 Submitted in partial fulfilment of the requirements of ISEC6000 Secure DevOps Unit
 
