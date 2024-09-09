@@ -1,3 +1,6 @@
 [submodule "saleor-platform-isec6000-chirayu-21525649"]
 	path = saleor-platform-isec6000-chirayu-21525649
 	url = https://github.com/chirayupatel225/saleor-platform-isec6000-chirayu-21525649.git
+[submodule "Assessment 1/saleor-platform-isec6000-chirayu-21525649"]
+	path = Assessment 1/saleor-platform-isec6000-chirayu-21525649
+	url = https://github.com/chirayupatel225/saleor-platform-isec6000-chirayu-21525649.git
